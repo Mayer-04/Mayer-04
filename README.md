@@ -1,6 +1,6 @@
 ### Hola 👋 Mi nombre es Mayer Chaves
 
-### Skills
+
 
 ### Front-end
 <p align="left">
