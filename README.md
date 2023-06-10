@@ -1,7 +1,7 @@
-### Hola 👋 Mi nombre es Mayer Chaves
-
+Hola 👋 My name is Mayer Chaves
+================================
 I am a Full Stack developer.
---------------------------
+----------------------------
 
 *   🌍  I'm based in Bogotá, Colombia.
 *   👨‍💻  I'm passionate about software development.
