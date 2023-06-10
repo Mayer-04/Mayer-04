@@ -1,6 +1,12 @@
 ### Hola 👋 Mi nombre es Mayer Chaves
 
+I am a Full Stack developer.
+--------------------------
 
+*   🌍  I'm based in Bogotá, Colombia.
+*   👨‍💻  I'm passionate about software development.
+*   🧠  Currently learning Svelte.
+*   🤝  I'm open to collaborating on interesting projects as a developer.
 
 ### Front-end
 <p align="left">
