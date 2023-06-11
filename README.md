@@ -1,12 +1,12 @@
-Hola 👋 My name is Mayer Chaves
+Hola 👋 Mi nombre es Mayer Chaves
 ================================
-I am a Full Stack developer.
+Soy desarollador Full Stack developer.
 ----------------------------
 
-*   🌍  I'm based in Bogotá, Colombia.
-*   👨‍💻  I'm passionate about software development.
-*   🧠  Currently learning Svelte.
-*   🤝  I'm open to collaborating on interesting projects as a developer.
+*   🌍  Vivo en Bogotá, Colombia.
+*   👨‍💻  Me apasiona el desarrollo de software.
+*   🧠  Actualmente aprendiendo Svelte.
+*   🤝  Estoy abierto a colaborar en proyectos interesantes como desarrollador.
 
 ### Front-end
 <p align="left">
@@ -27,7 +27,7 @@ I am a Full Stack developer.
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/>
 </p>
 
-### Socials
+### Social
 <p align="left"> <a href="https://www.linkedin.com/in/mayer-chaves-90116824b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
