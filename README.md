@@ -1,6 +1,6 @@
 Hola 👋 Mi nombre es Mayer Chaves
 ================================
-Soy desarollador Full Stack developer.
+Soy Desarollador Full Stack developer
 ----------------------------
 
 *   🌍  Vivo en Bogotá, Colombia.
