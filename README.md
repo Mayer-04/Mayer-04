@@ -3,10 +3,10 @@ Hola 👋 Mi nombre es Mayer Chaves
 Soy Desarollador Full Stack developer
 ----------------------------
 
-*   🌍  Vivo en Bogotá, Colombia.
-*   🚀  Me apasiona el desarrollo de software.
-*   🧠  Actualmente aprendiendo Svelte.
-*   🤝  Estoy abierto a colaborar en proyectos interesantes como desarrollador.
+* Vivo en Bogotá, Colombia.
+* Me apasiona el desarrollo de software.
+* Actualmente aprendiendo Svelte.
+* Estoy abierto a colaborar en proyectos interesantes como desarrollador.
 
 
 
