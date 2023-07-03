@@ -26,3 +26,5 @@ Hola 👋 Mi nombre es Mayer Andrés
 
 ### Social
 <p align="left"> <a href="https://www.linkedin.com/in/mayer-chaves-90116824b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayer-04&show_icons=true&locale=en&layout=compact" alt="ivanatias" /></p>
