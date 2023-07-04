@@ -4,7 +4,7 @@ Hola 👋 Mi nombre es Mayer Andrés
 ----------------------------
 * Vivo en Bogotá, Colombia.
 * Me apasiona el desarrollo de software.
-* Actualmente aprendiendo <a href="https://svelte.dev/">Svelte.</a>
+* Actualmente aprendiendo <a href="https://go.dev/">Go.</a>
 * Estoy abierto a colaborar en proyectos interesantes como desarrollador.
 ---
 ### Frontend
