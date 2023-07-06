@@ -22,6 +22,7 @@ Hola 👋 Mi nombre es Mayer Andrés
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="42" height="42" style="padding-right:5px;" alt="NodeJS"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="42" height="42" style="padding-right:5px;" alt="Express"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="42" height="42" style="padding-right:5px;" alt="MongoDB"/>
+<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="42" height="42" style="padding-right:5px;" alt="Docker"/>
 </p>
 
 ### Social
