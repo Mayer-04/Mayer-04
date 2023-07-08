@@ -4,9 +4,9 @@ Hola 👋 Mi nombre es Mayer Andrés
 ----------------------------
 * Vivo en Bogotá, Colombia.
 * Me apasiona el desarrollo de software.
-* Actualmente aprendiendo <a href="https://go.dev/">Go.</a>
+* Actualmente aprendiendo <a href="https://go.dev/">Go</a> y <a href="https://www.postgresql.org/">PostgreSQL.</a>
 * Estoy abierto a colaborar en proyectos interesantes como desarrollador.
----
+----------------------------
 ### Frontend
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5"/>
