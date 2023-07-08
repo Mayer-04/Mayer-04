@@ -21,9 +21,9 @@ Hola 👋 Mi nombre es Mayer Andrés
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="42" height="42" style="padding-right:5px;" alt="NodeJS"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="42" height="42" style="padding-right:5px;" alt="Express"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="42" height="42" style="padding-right:5px;" alt="MongoDB"/>
-<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="42" height="42" style="padding-right:5px;" alt="Docker"/>
-</p>
+<img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" width="38" height="38" style="padding-right:5px;" alt="Go"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="42" style="padding-right:5px;" alt="MongoDB"/>
+
 
 ### Social
 <p align="left"> <a href="https://www.linkedin.com/in/mayer-chaves-90116824b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a></p>
