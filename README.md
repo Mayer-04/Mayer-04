@@ -4,7 +4,8 @@ Hola 👋 Mi nombre es Mayer Andrés
 ----------------------------
 * Vivo en Bogotá, Colombia.
 * Me apasiona el desarrollo de software.
-* Actualmente aprendiendo <a href="https://go.dev/">Go</a> y <a href="https://www.postgresql.org/">PostgreSQL.</a>
+* Actualmente aprendiendo <a href="https://go.dev/">Go.</a>
+* Tecnologías por aprender: <a href="https://www.postgresql.org/">PostgreSQL</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://svelte.dev/">Svelte.</a>
 * Estoy abierto a colaborar en proyectos interesantes como desarrollador.
 ----------------------------
 ### Frontend
