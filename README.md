@@ -19,10 +19,10 @@ Hola 👋 Mi nombre es Mayer Andrés
 
 ### Backend
 <p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="42" height="42" style="padding-right:5px;" alt="NodeJS"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="42" height="42" style="padding-right:5px;" alt="Express"/>
-<img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" width="38" height="38" style="padding-right:5px;" alt="Go"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="42" style="padding-right:5px;" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="42" height="42" style="padding-right: 10px;" alt="NodeJS"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="42" height="42" style="padding-right: 10px;" alt="Express"/>
+<img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" width="38" height="38" style="padding-right: 10px;" alt="Go"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="42" style="padding-right: 10px;" alt="MongoDB"/>
 
 
 ### Social
