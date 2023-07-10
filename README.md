@@ -11,7 +11,7 @@ Hola 👋 Mi nombre es Mayer Andrés
 * Actualmente aprendiendo <a href="https://go.dev/">Go.</a>
 * Estoy abierto a colaborar en proyectos interesantes como desarrollador.
 ----------------------------
-### Frontend
+### 👨‍💻 Frontend
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3"/>
@@ -21,7 +21,7 @@ Hola 👋 Mi nombre es Mayer Andrés
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="50" height="50" alt="Angular"/>
 </p>
 
-### Backend
+### 🛠️ Backend
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="42" height="42" style="padding-right: 10px;" alt="NodeJS"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="42" height="42" style="padding-right: 10px;" alt="Express"/>
