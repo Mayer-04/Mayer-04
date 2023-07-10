@@ -1,7 +1,11 @@
 Hola 👋 Mi nombre es Mayer Andrés
 ================================
-**`Desarrollador Full Stack developer`**
-----------------------------
+
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=340&color=fff&left=true&vLeft=true&width=750&height=80&lines=Desarrollador+Full+Stack+Developer;Aprendiz+y+aventurero+en+busca+de+nuevos+retos;Aprendiendo+hoy,+mañana+y+siempre" alt="Typing SVG"/></a>
+</p>
+
+-----------------------------
 * Vivo en Bogotá, Colombia.
 * Me apasiona el desarrollo de software.
 * Actualmente aprendiendo <a href="https://go.dev/">Go.</a>
