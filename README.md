@@ -5,7 +5,6 @@ Hola 👋 Mi nombre es Mayer Andrés
 * Vivo en Bogotá, Colombia.
 * Me apasiona el desarrollo de software.
 * Actualmente aprendiendo <a href="https://go.dev/">Go.</a>
-* Ruta de aprendizaje: <a href="https://www.postgresql.org/">PostgreSQL</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://svelte.dev/">Svelte.</a>
 * Estoy abierto a colaborar en proyectos interesantes como desarrollador.
 ----------------------------
 ### Frontend
@@ -29,4 +28,4 @@ Hola 👋 Mi nombre es Mayer Andrés
 ### Social
 <p align="left"> <a href="https://www.linkedin.com/in/mayer-chaves-90116824b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayer-04&theme=algolia&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Mayer"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayer-04&theme=algolia&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Mayer"/>
