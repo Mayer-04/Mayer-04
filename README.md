@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Mi nombre es Mayer Andres</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=340&color=007d9c&center=true&vCenter=true&width=750&height=80&lines=Desarrollador+Full+Stack+Developer;Aprendiz+y+aventurero+en+busca+de+nuevos+retos;Aprendiendo+hoy,+mañana+y+siempre" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=340&color=50b7e0&center=true&vCenter=true&width=880&height=80&lines=Desarrollador+Full+Stack+Developer;Aprendiz+y+aventurero+en+busca+de+nuevos+retos;Aprendiendo+hoy,+mañana+y+siempre" alt="Typing SVG"/></a>
 </p>
 
 -----------------------------
