@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, Mi nombre es Mayer Chaves</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=340&color=50b7e0&center=true&vCenter=true&width=880&height=80&lines=Desarrollador+Full+Stack+Developer;Aprendiz+y+aventurero+en+busca+de+nuevos+retos" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=550&lines=Desarrollador+Web+Full+Stack;Aprendiz+y+aventurero+en+busca+de+nuevos+retos" alt="Typing SVG" />
+</a>
 </p>
 
 -----------------------------
