@@ -23,7 +23,7 @@
 <img src="https://ivanatias.codes/images/javascript.svg?__frsh_c=72f2929de2bb4557f1cc563b5a6ed836059c0a6a" width="40" height="40" alt="JavaScript"/>
 <img src="https://ivanatias.codes/images/typescript.svg?__frsh_c=3e2a7bde05c5e53a3b5e9c46898299f33e740caf" width="40" height="40" alt="TypeScript"/>
 <img src="https://brandonroberts.dev/assets/posts/astro-logo.jpg" width="41" height="41" alt="Astro"/>
-<!-- <img src="https://static-00.iconduck.com/assets.00/angular-icon-966x1024-dzl2a826.png" width="40" height="40" alt="Angular"/> -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png" width="40" height="40" alt="Svelte"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="42" height="42" alt="NodeJS"/>
 <!-- <img src="https://www.svgrepo.com/show/330398/express.svg" width="42" height="42" alt="Express"/> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Go_gopher_favicon.svg/2048px-Go_gopher_favicon.svg.png" width="40" height="40" alt="Go"/>
