@@ -26,7 +26,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png" width="40" height="40" alt="Svelte"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="42" height="42" alt="NodeJS"/>
 <!-- <img src="https://www.svgrepo.com/show/330398/express.svg" width="42" height="42" alt="Express"/> -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Go_gopher_favicon.svg/2048px-Go_gopher_favicon.svg.png" width="40" height="40" alt="Go"/>
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Go_gopher_favicon.svg/2048px-Go_gopher_favicon.svg.png" width="40" height="40" alt="Go"/> -->
 <img src="https://ivanatias.codes/images/mongodb.svg?__frsh_c=72f2929de2bb4557f1cc563b5a6ed836059c0a6a" width="42" height="42" alt="MongoDB"/>
 </p>
 
