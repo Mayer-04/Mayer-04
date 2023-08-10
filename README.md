@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, Mi nombre es Mayer Chaves</h1>
-<p align="center">
+<div align="center" >
+    <img  width="20%" src="https://raw.githubusercontent.com/gist/brudnak/efd7b887bd7c0441d8bb88ae1c77374a/raw/4629432d2259da168960c36e3801642960e645cf/gopher-workout.gif">
+</div>
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=550&lines=Desarrollador+Web+Full+Stack;Aprendiz+y+aventurero+en+busca+de+nuevos+retos" alt="Typing SVG" />
 </a>
-</p>
+</div>
 
 -----------------------------
 - Vivo en Bogotá, Colombia.
@@ -13,8 +16,8 @@
 
 - Estoy abierto a colaborar en proyectos interesantes como desarrollador.
   
-----------------------------
-## Lenguajes y herramientas
+
+## Lenguajes y herramientas:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,javascript,ts,astro,svelte,nodejs,mongodb" />
