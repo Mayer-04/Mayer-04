@@ -18,7 +18,7 @@
   
 
 ## Lenguajes y herramientas:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,javascript,ts,astro,svelte,nodejs,mongodb" />
   </a>
