@@ -12,7 +12,7 @@
   
 - Me apasiona el desarrollo de software.
 
-- Actualmente aprendiendo <a href="https://go.dev/">Go.</a>
+- Actualmente aprendiendo <a href="https://svelte.dev/">Svelte.</a>
 
 - Estoy abierto a colaborar en proyectos interesantes como desarrollador.
   
