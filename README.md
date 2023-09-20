@@ -12,7 +12,7 @@
   
 - Me apasiona el desarrollo de software.
 
-- Actualmente aprendiendo <a href="https://svelte.dev/">Svelte.</a>
+- Actualmente aprendiendo <a href="https://www.postgresql.org/">PostgreSQL.</a>
 
 - Estoy abierto a colaborar en proyectos interesantes como desarrollador.
   
@@ -20,7 +20,7 @@
 ## Lenguajes y herramientas:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,javascript,ts,astro,svelte,nodejs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,javascript,ts,astro,svelte,angular,nodejs,mongodb" />
   </a>
 </p>
 
