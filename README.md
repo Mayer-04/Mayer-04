@@ -30,5 +30,4 @@
   <a href="https://www.linkedin.com/in/mayer-chaves-90116824b/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="40" height="40" />
   </a>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayer-04&layout=compact&theme=react"/>
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=Mayer-04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayer-04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
