@@ -20,7 +20,7 @@
 ## Lenguajes y herramientas:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,javascript,ts,astro,svelte,nodejs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,javascript,ts,astro,svelte,angular,nodejs,mongodb" />
   </a>
 </p>
 
