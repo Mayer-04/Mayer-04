@@ -8,7 +8,7 @@
 </div>
 
 -----------------------------
-- 🏕️ Vivo en Bogotá, Colombia.
+- 🏞️ De Bogotá, Colombia.
 - 🛠️ FullStack/Backend Engineer.
 - 🌱 Estoy abierto a colaborar en proyectos interesantes como desarrollador.
   
