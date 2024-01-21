@@ -8,11 +8,11 @@
 </div>
 
 -----------------------------
-- Vivo en Bogotá, Colombia.
+- 🖼️ Vivo en Bogotá, Colombia.
   
-- Me apasiona el desarrollo de software.
+- 💻 Me apasiona el desarrollo de software.
 
-- Estoy abierto a colaborar en proyectos interesantes como desarrollador.
+- 🌱 Estoy abierto a colaborar en proyectos interesantes como desarrollador.
   
 
 ## Lenguajes y herramientas:
