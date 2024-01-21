@@ -8,10 +8,8 @@
 </div>
 
 -----------------------------
-- 🖼️ Vivo en Bogotá, Colombia.
-  
-- 💻 Me apasiona el desarrollo de software.
-
+- 🏕️ Vivo en Bogotá, Colombia.
+- 🛠️ FullStack/Backend Engineer.
 - 🌱 Estoy abierto a colaborar en proyectos interesantes como desarrollador.
   
 
