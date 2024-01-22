@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Mi nombre es Mayer Chaves</h1>
+<h1 align="center">Bienvenido/a a mi GitHub</h1>
 <div align="center" >
     <img  width="20%" src="https://raw.githubusercontent.com/gist/brudnak/efd7b887bd7c0441d8bb88ae1c77374a/raw/4629432d2259da168960c36e3801642960e645cf/gopher-workout.gif">
 </div>
@@ -13,7 +13,7 @@
 - 🌱 Estoy abierto a colaborar en proyectos interesantes como desarrollador.
   
 
-## Lenguajes y herramientas:
+## Tecnologías 👨🏽‍💻
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,javascript,ts,astro,svelte,angular,nodejs,express,docker,mongodb,postgres" />
