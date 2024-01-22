@@ -8,6 +8,7 @@
 </div>
 
 -----------------------------
+- 🧑🏽 Mi nombre es Mayer Andres Chaves.
 - 🏞️ De Bogotá, Colombia.
 - 🛠️ FullStack/Backend Engineer.
 - 🌱 Estoy abierto a colaborar en proyectos interesantes como desarrollador.
@@ -28,3 +29,4 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayer-04&theme=react&layout=compact)
+![Mayer Andres GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayer-04&show_icons=true&theme=react)
