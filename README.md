@@ -18,7 +18,7 @@
 ## Tecnologías 👨🏽‍💻
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,javascript,ts,astro,svelte,angular,nodejs,express,docker,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,javascript,ts,astro,svelte,angular,nodejs,express,docker,mongodb,postgres,prisma" />
   </a>
 </p>
 
