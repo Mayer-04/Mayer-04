@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenidos a mi GitHub</h1>
 <div align="center" >
-    <img  width="20%" src="https://raw.githubusercontent.com/gist/brudnak/efd7b887bd7c0441d8bb88ae1c77374a/raw/4629432d2259da168960c36e3801642960e645cf/gopher-workout.gif">
+    <img  width="20%" src="https://media.tenor.com/hD56X-Q5AzMAAAAi/gopher-shaking.gif">
 </div>
 <div align="center">
 </div>
@@ -11,6 +11,7 @@
 - 🏞️ De Bogotá, Colombia.
 - 🛠️ FullStack/Backend Engineer.
 - 🌱 Estoy abierto a colaborar en proyectos interesantes como desarrollador.
+- 👨🏽‍🏫 Actualmente aprendiendo <a href="https://go.dev/" target="_blank">Go</a>
   
 
 ## Tecnologías 👨🏽‍💻
