@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenidos a mi GitHub</h1>
 <div align="center" >
-    <img  width="20%" src="https://media.tenor.com/hD56X-Q5AzMAAAAi/gopher-shaking.gif">
+    <img  width="20%" src="assets/gopher.gif">
 </div>
 <div align="center">
 </div>
@@ -11,7 +11,7 @@
 - 🏞️ De Bogotá, Colombia.
 - 🛠️ FullStack/Backend Engineer.
 - 🌱 Estoy abierto a colaborar en proyectos interesantes como desarrollador.
-- 👨🏽‍🏫 Actualmente aprendiendo <a href="https://go.dev/" target="_blank">Go</a>
+- 👨🏽‍🏫 Actualmente aprendiendo <a href="https://go.dev/" target="_blank">Go.</a>
   
 
 ## Tecnologías 👨🏽‍💻
