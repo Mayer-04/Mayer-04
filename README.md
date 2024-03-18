@@ -4,13 +4,24 @@
     <img  width="20%" src="images/gopher.gif">
 </div>
 
------------------------------  
+-----------------------------
 
-- 🧑🏽 Mi nombre es Mayer Andres Chaves.
-- 🏞️ De Bogotá, Colombia.
-- 🛠️ FullStack/Backend Engineer.
-- 🌱 Estoy abierto a colaborar en proyectos interesantes como desarrollador.
-- 👨🏽‍🏫 Actualmente aprendiendo <a href="https://go.dev/" target="_blank">Go</a>.
+```go
+func main() {
+
+    var name = "Mayer Andres Chaves"
+    var city = "Bogotá, Colombia"
+    var role = "FullStack/Backend Engineer"
+    interests := "I'm open to collaborating on interesting projects as a developer."
+    learning := "Go"
+
+    fmt.Println("🧑🏽 My name is", name)
+    fmt.Println("🏞️ From", city)
+    fmt.Println("🛠️", role)
+    fmt.Println("🌱", interests)
+    fmt.Println("👨🏽‍🏫 Currently learning", learning)
+}
+```
 
 ## Tecnologías 👨🏽‍💻
 
