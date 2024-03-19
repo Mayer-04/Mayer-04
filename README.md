@@ -9,10 +9,10 @@
 ```go
 func main() {
 
-    var name = "Mayer Andres Chaves"
+    const name = "Mayer Andres Chaves"
     var city = "Bogotá, Colombia"
     var role = "FullStack/Backend Engineer"
-    interests := "I'm open to collaborating on interesting projects as a developer."
+    interests := "I'm open to collaborating on interesting projects as a developer"
     learning := "Go"
 
     fmt.Println("🧑🏽 My name is", name)
