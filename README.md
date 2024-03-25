@@ -32,6 +32,7 @@ func main() {
 </div>
 
 -----------------------------  
+## ⚙️ &nbsp;GitHub Analytics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayer-04&theme=react&layout=compact)
 ![Mayer Andres GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayer-04&show_icons=true&theme=react)
