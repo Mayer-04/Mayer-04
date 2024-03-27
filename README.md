@@ -23,15 +23,32 @@ func main() {
 }
 ```
 
-## Tecnologías 👨🏽‍💻
+## languages and tools 👨🏽‍💻
+
+### Frontend
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,javascript,ts,astro,svelte,angular,nodejs,express,nest,docker,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,astro,svelte,angular" />
   </a>
 </div>
 
------------------------------  
+### Backend
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,mongodb,postgres,prisma" />
+  </a>
+</div>
+
+### Tools
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,docker" />
+  </a>
+</div>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayer-04&theme=react&layout=compact)
