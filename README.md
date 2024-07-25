@@ -13,7 +13,7 @@ func main() {
     var city = "Bogotá, Colombia"
     var role = "FullStack/Backend Engineer"
     interests := "I'm open to collaborating on interesting projects as a developer"
-    learning := "Go"
+    learning := "Python"
 
     fmt.Println("🧑🏽 My name is", name)
     fmt.Println("🏞️ From", city)
@@ -37,7 +37,7 @@ func main() {
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,python,mongodb,postgres,redis" />
   </a>
 </div>
 
@@ -45,7 +45,7 @@ func main() {
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,docker,azure,prisma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,docker,azure,linux" />
   </a>
 </div>
 
