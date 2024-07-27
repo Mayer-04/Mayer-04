@@ -23,7 +23,7 @@ func main() {
 }
 ```
 
-## languages and tools 👨🏽‍💻
+## Languages and tools 👨🏽‍💻
 
 ### Frontend
 
