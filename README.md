@@ -2,6 +2,7 @@
 
 <div align="center">
     <img  width="20%" src="images/gopher.gif">
+    <img  width="20%" src="https://i.imgur.com/Lp6bAvd.png">
 </div>
 
 -----------------------------
@@ -37,7 +38,7 @@ func main() {
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,go,python,rust,mongodb,postgres,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,go,python,rust,mongodb,postgres" />
   </a>
 </div>
 
