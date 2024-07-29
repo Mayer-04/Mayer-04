@@ -13,7 +13,7 @@ func main() {
     var city = "Bogotá, Colombia"
     var role = "FullStack/Backend Engineer"
     interests := "I'm open to collaborating on interesting projects as a developer"
-    learning := []string{"Python", "Redis"}
+    learning := []string{"Python", "Rust"}
 
     fmt.Println("🧑🏽 My name is", name)
     fmt.Println("🏞️ From", city)
