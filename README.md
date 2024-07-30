@@ -2,7 +2,6 @@
 
 <div align="center">
     <img  width="20%" src="images/gopher.gif">
-    <img  width="20%" src="https://i.imgur.com/Lp6bAvd.png">
 </div>
 
 -----------------------------
