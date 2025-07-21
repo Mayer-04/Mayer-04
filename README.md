@@ -8,7 +8,7 @@
 
 ```go
 func main() {
-    const name = "Mayer Andres Chaves"
+    const name = "Mayer Andrés Chaves Prada"
     var city = "Bogotá, Colombia"
     var role = "FullStack/Backend Engineer"
     interests := "I'm open to collaborating on interesting projects as a developer"
@@ -27,7 +27,7 @@ func main() {
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,astro,svelte" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,astro,react,svelte" />
   </a>
 </div>
 
@@ -35,7 +35,7 @@ func main() {
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,go,py,postgres,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,py,fastapi,postgres,mongodb,redis" />
   </a>
 </div>
 
@@ -43,7 +43,7 @@ func main() {
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vitest,jest,linux,docker,azure" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vite,vitest,jest,linux,docker,azure" />
   </a>
 </div>
 
