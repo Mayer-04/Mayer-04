@@ -35,7 +35,7 @@ func main() {
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,py,fastapi,postgres,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,py,postgres,mongodb,redis" />
   </a>
 </div>
 
@@ -43,7 +43,7 @@ func main() {
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vite,vitest,jest,linux,docker,azure" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vite,vitest,jest,linux,docker" />
   </a>
 </div>
 
