@@ -17,7 +17,6 @@ func main() {
     fmt.Println("🏞️ From", city)
     fmt.Println("🛠️", role)
     fmt.Println("🌱", interests)
-    fmt.Println("👨🏽‍🏫 Currently learning", learning)
 }
 ```
 
@@ -43,7 +42,7 @@ func main() {
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vite,vitest,jest,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vite,vitest,jest,docker,linux,azure" />
   </a>
 </div>
 
